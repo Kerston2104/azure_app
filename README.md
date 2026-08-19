@@ -106,7 +106,7 @@ Need high-availability cloud deployments, automated CI/CD pipelines, or custom I
 
 📬 **Get in Touch for Cloud Hosting Solutions**:
 
-* **Email / Inquiries**: Reach out directly via the portfolio contact terminal at [contact me](contact@kerstonanto.in)
+* **Email / Inquiries**: Reach out directly via the portfolio contact terminal at [contact me](mailto:contact@kerstonanto.in)
 * **Services Provided**: Azure Infrastructure Provisioning, Terraform Automation, Docker Containerization, & High-Scale Web Applications.
 
 ---
