@@ -120,6 +120,6 @@ Need high-availability cloud deployments, automated CI/CD pipelines, or custom I
 
 🌐 **Website**: [kerstonanto.in](https://kerstonanto.in)
 
-GitHub: [@Kerston2104](https://www.google.com/search?q=https://github.com/Kerston2104)
+GitHub: [@Kerston2104](https://github.com/Kerston2104)
 
 ---
